@@ -8,7 +8,7 @@ This project is the example of codeMirror.  (此项目是一个codeMirror的例�
 
 框架或组件                             | desc
 ------------------------------------- | -----------------------------------          
-[dva](https://github.com/dvajs/dva/） |  基于 redux、redux-saga 和 react-router@2.x 的轻量级前端框架 
+[dva](https://github.com/dvajs/dva) |  基于 redux、redux-saga 和 react-router@2.x 的轻量级前端框架 
 [antd](https://ant.design/index-cn/)  | 一个UI设计语言
 [CodeMirror](https://codemirror.net/) | 一个功能强大的文本编辑器， 支持多种语言的自动补全以及代码高亮
 [react](https://facebook.github.io/react/) | 出自facebook的前端框架
