@@ -1,4 +1,4 @@
-###  codeMirror——example
+###  codeMirror_example
 This project is the example of codeMirror.  (此项目是一个codeMirror的例子) 
 前端输入框具有代码高亮，代码自动补全等炫酷功能。
 
