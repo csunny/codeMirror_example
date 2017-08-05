@@ -14,8 +14,10 @@ This project is the example of codeMirror.  (此项目是一个codeMirror的例�
 [react](https://facebook.github.io/react/) | 出自facebook的前端框架
 
 
-                                                                                                                                                                               
-
+### Begin 
+项目初始化， dva new codeMirror_example
+没有用过dva的同学在这里看[dva入门教程](https://github.com/sorrycc/blog/issues/18)
+                                                                                                    
 
 
 
